@@ -6,5 +6,5 @@ This project is a facade to generate [csmith](https://github.com/csmith-project/
 
 ```
 Usage:
-python  main.py <ck_path> <repository_name> <amount>
+python ck-csmith-generator.py <ck_path> <repository_name> <amount>
 ```

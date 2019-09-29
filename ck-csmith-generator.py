@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Usage:
-  main.py <ck_path> <repository_name> <amount> 
+  ck-csmith-generator.py <ck_path> <repository_name> <amount> 
 
 Created on Fri Sep 27 16:51:11 2019
 
